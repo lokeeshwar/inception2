@@ -1,0 +1,7 @@
+.cif {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    width: 80%;
+    margin-left: 7%
+} 

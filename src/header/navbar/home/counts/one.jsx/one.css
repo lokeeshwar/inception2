@@ -1,0 +1,13 @@
+.logoss p {
+    font-size: 21px;
+    display: block;
+    font-weight: 700;
+    color: #1c5c93;
+}
+
+.logoss {
+    box-shadow: 0px 0 16px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    background: #fff;
+    margin-bottom: 30px;
+}

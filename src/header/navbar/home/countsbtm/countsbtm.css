@@ -1,0 +1,19 @@
+.btm {
+    display: flex;
+    margin: 5% 10%;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    padding-bottom: 0;
+    color: #5c768d;
+}
+
+.cb {
+    padding: 5%;
+    background-color: #f5f9fc;
+}
+
+

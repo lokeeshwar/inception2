@@ -1,0 +1,12 @@
+.counts {
+    background-color: #f5f9fc;
+    padding: 2% 0;
+}
+
+.counts-flex {
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    width: 60%;
+    padding-top: 2%;
+}

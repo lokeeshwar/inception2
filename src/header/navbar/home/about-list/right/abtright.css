@@ -1,0 +1,18 @@
+.right {
+    padding: 40px;
+    margin: -1px;
+    text-align: justify;
+}
+
+.right h4 {
+    font-size: 28px;
+    font-weight: 400;
+    padding: 0;
+    margin: 20px 0;
+}
+
+.right p {
+    color: #aaaaaa;
+    font-size: 15px;
+    line-height: 170%
+}

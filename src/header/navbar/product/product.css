@@ -1,0 +1,29 @@
+.section-title h2 {
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    padding-bottom: 0;
+    color: #5c768d;
+}
+
+.section-title p {
+    line-height: 26px;
+    margin: auto;
+    width: 80%;
+    text-align: center;
+}
+
+.section-title  {
+    padding-bottom: 30px;
+}
+
+.pdct .row {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-left: 130px;
+    text-align: justify;
+    line-height: 24px;
+}

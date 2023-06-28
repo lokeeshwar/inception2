@@ -1,0 +1,22 @@
+.info {
+    color: #444;
+    text-align: center;
+    box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
+    padding: 20px 30px;
+    margin-bottom: 30px;
+    width: 85%;
+   
+}
+
+.info i svg {
+    padding: 10px;
+    border-radius: 50%;
+    border: dotted;
+    width: 30%;
+    height: 30%;
+    border-color: #428bca;
+}
+
+/* .info p {
+    padding: 10% 20%;
+} */ 

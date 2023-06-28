@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  #topbar {
+    
+    background: #fff;
+    padding-bottom: 40px;
+    padding-top: 20px;
+    border-bottom: 1px solid #eee;
+    font-size: 14px;
+  }
+  .contactInfo-left {
+    float: left;
+  }
+  .signup-right {
+    float: right;
+    margin-right: 150px;
+  }
+  .signup-right a:hover{
+    color: #3490dc;
+  }
+  .icon-envelope {
+    padding: 4px;
+    margin-left: 120px;
+  }
+  .icon-phone{
+    padding: 8px;
+    margin-left: 30px;
+  }
+  .companymail {
+    font-size: 16px;
+    text-decoration: none;
+    line-height: 1;
+    color: #444;
+    transition: 0.3s;
+  }
+  .companymail:hover{
+    color: #3490dc;
+  }
+  
+  .nav-link{
+    margin: 20px;
+    color: #5c768d;
+    font-size: 16px;
+    text-decoration: none;
+  }
+  
+  

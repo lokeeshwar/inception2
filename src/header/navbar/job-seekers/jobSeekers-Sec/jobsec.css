@@ -1,0 +1,10 @@
+.jobseekers-sec p{
+    text-align: center;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 1rem;
+}
+.jobseekers-sec{
+    margin: 0 100px;
+    line-height: 26px;
+   
+}

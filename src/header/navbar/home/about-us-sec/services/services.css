@@ -1,0 +1,14 @@
+.imgBlock{
+    display: flex;
+}
+.section-title{
+    text-align: center;
+    padding-bottom: 30px;
+    color: #5c768d;
+}
+
+.description{
+    line-height: 24px;
+    font-size: 14px;
+}
+

@@ -1,0 +1,20 @@
+.nav-menu ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+}
+
+.nav-menu ul a {
+    display: block;
+    position: relative;
+    color: #5c768d;
+    padding: 12px 15px;
+    transition: 0.3s;
+    font-size: 15px;
+    font-family: "Open Sans", sans-serif;
+    text-decoration: none;
+}
+.nav-menu ul a:hover{
+    color: #3490dc;
+}

@@ -1,0 +1,27 @@
+.row-text-center img{
+    height: 206px ;
+    width: 350px;
+   }
+   .row-text-center{
+       padding: 15px;
+   }
+ 
+   .bottom-container{
+       margin-left: 110px;
+       margin-right: 90px;
+   }
+   .h2-style{
+       text-align: center;
+       font-size: xx-large;
+       color: #444444;
+       font-weight: 600;
+       margin-top: -2px;
+       padding-top: 30px;
+   }
+   .vis-mis-val{
+       box-shadow: 0px 0 8px rgba(0, 0, 0, 0.1);
+       margin-right: 15px;
+       margin-left: 15px;
+       margin-top: -18px;
+     
+   }
